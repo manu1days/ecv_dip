@@ -1,0 +1,31 @@
+gsex,d1,n,freq
+ABC1-C2,Bastante,165,0.168
+ABC1-C2,Mucho,388,0.395
+ABC1-C2,Muy feliz,401,0.408
+ABC1-C2,Muy infeliz,9,0.009
+ABC1-C2,No sabe/No responde,6,0.006
+ABC1-C2,Poco infeliz,14,0.014
+C3,Bastante,183,0.162
+C3,Mucho,438,0.388
+C3,Muy feliz,459,0.406
+C3,Muy infeliz,5,0.004
+C3,No sabe/No responde,6,0.005
+C3,Poco infeliz,39,0.035
+D,Bastante,189,0.176
+D,Mucho,394,0.368
+D,Muy feliz,417,0.389
+D,Muy infeliz,18,0.017
+D,No sabe/No responde,6,0.006
+D,Poco infeliz,48,0.045
+E,Bastante,76,0.232
+E,Mucho,93,0.284
+E,Muy feliz,138,0.422
+E,Muy infeliz,5,0.015
+E,No sabe/No responde,2,0.006
+E,Poco infeliz,13,0.04
+NS,Bastante,10,0.172
+NS,Mucho,14,0.241
+NS,Muy feliz,26,0.448
+NS,Muy infeliz,2,0.034
+NS,No sabe/No responde,1,0.017
+NS,Poco infeliz,5,0.086

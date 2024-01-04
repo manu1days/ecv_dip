@@ -1,0 +1,5 @@
+d3_4,total,freq
+Incertidumbre,916,55.52
+Neutro,180,10.91
+No aplica,182,11.03
+No hay incertidumbre,372,22.55

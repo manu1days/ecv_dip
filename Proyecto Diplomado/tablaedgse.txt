@@ -1,0 +1,6 @@
+gsex,promedio_ed_med,promedio_ed_sup
+ABC1-C2,5.1,4.9
+C3,5.3,5.1
+D,5.3,4.9
+E,5.5,5.2
+NS,5.4,4.8

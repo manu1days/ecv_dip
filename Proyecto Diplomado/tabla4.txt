@@ -1,0 +1,21 @@
+gsex,b2,b3,total,promedio_nota
+ABC1-C2,Atendido,Ambas,242,4.5
+ABC1-C2,Atendido,Sistema Privado,212,6
+ABC1-C2,Atendido,Sistema publico,505,2
+ABC1-C2,No se ha atendido,NA,297,1
+C3,Atendido,Ambas,206,4.5
+C3,Atendido,Sistema Privado,132,2
+C3,Atendido,Sistema publico,795,3.5
+C3,No se ha atendido,NA,354,3.5
+D,Atendido,Ambas,148,1
+D,Atendido,Sistema Privado,78,7
+D,Atendido,Sistema publico,1034,4.5
+D,No se ha atendido,NA,318,4
+E,Atendido,Ambas,48,5
+E,Atendido,Sistema Privado,25,6.5
+E,Atendido,Sistema publico,397,7
+E,No se ha atendido,NA,78,3.5
+NS,Atendido,Ambas,11,6
+NS,Atendido,Sistema Privado,7,5.5
+NS,Atendido,Sistema publico,38,3
+NS,No se ha atendido,NA,25,5

@@ -1,0 +1,21 @@
+gsex,b2,b3,total,promedio
+ABC1-C2,Atendido,Ambas,179,4.3
+ABC1-C2,Atendido,Sistema Privado,181,5.4
+ABC1-C2,Atendido,Sistema publico,375,4.3
+ABC1-C2,No se ha atendido,NA,248,4.4
+C3,Atendido,Ambas,154,4.4
+C3,Atendido,Sistema Privado,114,5.3
+C3,Atendido,Sistema publico,585,4.5
+C3,No se ha atendido,NA,277,4.2
+D,Atendido,Ambas,102,4.4
+D,Atendido,Sistema Privado,65,5.2
+D,Atendido,Sistema publico,702,4.5
+D,No se ha atendido,NA,203,4.1
+E,Atendido,Ambas,31,4.8
+E,Atendido,Sistema Privado,20,5.6
+E,Atendido,Sistema publico,229,4.8
+E,No se ha atendido,NA,47,4.2
+NS,Atendido,Ambas,8,4.8
+NS,Atendido,Sistema Privado,6,5.5
+NS,Atendido,Sistema publico,26,4.1
+NS,No se ha atendido,NA,18,4.6
